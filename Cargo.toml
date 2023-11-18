@@ -1,0 +1,11 @@
+[package]
+name = "killports"
+version = "0.1.0"
+edition = "2021"
+authors="Rach Pradhan"
+description="Kill ports with a single command"
+repository="
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+env = "0.0.0"
